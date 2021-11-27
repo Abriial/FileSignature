@@ -1,0 +1,152 @@
+27.11.2021 14:18:24;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:18:30;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:18:36;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:18:42;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:18:48;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:18:55;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:19:01;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:19:08;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:19:14;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:19:20;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:19:26;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:19:33;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:19:39;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:19:45;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:19:51;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:19:58;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:20:04;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:20:10;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:20:16;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:20:22;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:20:29;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:20:35;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:20:41;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:20:47;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:20:53;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:20:59;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:21:05;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:21:12;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:21:18;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:21:24;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:21:30;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:21:36;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:21:43;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:21:49;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:21:56;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:22:02;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:22:09;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+27.11.2021 14:22:15;Error:Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)
+   at FileSignature.InputFileBuffer.GetBlock() in C:\Users\GamePC\source\repos\FileSignature\FileSignature\InputFileBuffer.cs:line 62
+   at FileSignature.Worker.Work(Object arr) in C:\Users\GamePC\source\repos\FileSignature\FileSignature\Worker.cs:line 52;Source:at System.Collections.ArrayList.GetRange(Int32 index, Int32 count)

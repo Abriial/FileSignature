@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileSignature": {
+      "commandName": "Project",
+      "commandLineArgs": "-f D:\\Games\\RedDeadRedemption2\\levels_6.rpf -b 2048"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\GamePC\source\repos\FileSignature\FileSignature\bin\Debug\netcoreapp3.1\FileSignature.exe
+C:\Users\GamePC\source\repos\FileSignature\FileSignature\bin\Debug\netcoreapp3.1\FileSignature.deps.json
+C:\Users\GamePC\source\repos\FileSignature\FileSignature\bin\Debug\netcoreapp3.1\FileSignature.runtimeconfig.json
+C:\Users\GamePC\source\repos\FileSignature\FileSignature\bin\Debug\netcoreapp3.1\FileSignature.runtimeconfig.dev.json
+C:\Users\GamePC\source\repos\FileSignature\FileSignature\bin\Debug\netcoreapp3.1\FileSignature.dll
+C:\Users\GamePC\source\repos\FileSignature\FileSignature\bin\Debug\netcoreapp3.1\FileSignature.pdb
+C:\Users\GamePC\source\repos\FileSignature\FileSignature\obj\Debug\netcoreapp3.1\FileSignature.csproj.AssemblyReference.cache
+C:\Users\GamePC\source\repos\FileSignature\FileSignature\obj\Debug\netcoreapp3.1\FileSignature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamePC\source\repos\FileSignature\FileSignature\obj\Debug\netcoreapp3.1\FileSignature.AssemblyInfoInputs.cache
+C:\Users\GamePC\source\repos\FileSignature\FileSignature\obj\Debug\netcoreapp3.1\FileSignature.AssemblyInfo.cs
+C:\Users\GamePC\source\repos\FileSignature\FileSignature\obj\Debug\netcoreapp3.1\FileSignature.csproj.CoreCompileInputs.cache
+C:\Users\GamePC\source\repos\FileSignature\FileSignature\obj\Debug\netcoreapp3.1\FileSignature.dll
+C:\Users\GamePC\source\repos\FileSignature\FileSignature\obj\Debug\netcoreapp3.1\FileSignature.pdb
+C:\Users\GamePC\source\repos\FileSignature\FileSignature\obj\Debug\netcoreapp3.1\FileSignature.genruntimeconfig.cache
